@@ -1,0 +1,6 @@
+framework module Pods_photoGalleryTask {
+  umbrella header "Pods-photoGalleryTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
